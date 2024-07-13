@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/47269634/55819333-2a623c80-5b16-11e9-9e68-7383086d8b80.png" align =right height='150'>
 
 
-# InstiGo-Android
+# InstiGo-RKU-Android
 InstiGo is an android app for the students and faculties of RK University that provide a one stop solution for matters related to mess, academia and hostel. 
 
 ![InstiGo_cover](https://user-images.githubusercontent.com/34706326/82624729-eab6c100-9c00-11ea-80eb-1ab052f4592c.jpg)
@@ -21,8 +21,8 @@ After cloning the project, you need to replace the existing Firebase json file w
 2. Click on **New Project**. A dialog box opens up. Give a suitable name and click on **Create Project**.
 3. In the new window, where you have to select the platform in which you want to add Firebase, select *Android*.
 4. Register app window opens. Fill the details.  
-  **Package Name :** *com.iitdh.sonusourav.instigo*    
-  **App Nickname :** *InstiGo*   
+  **Package Name :** *com.rku.nain.instigo*    
+  **App Nickname :** *InstiGo-RKU*   
   **Debug Signing Certificate SHA-1 :** Add your own SHA-1 key. Follow the steps if you don't know how to do so.   
   
 ![SHA-1 Key](https://user-images.githubusercontent.com/34706326/59098277-76c2d080-893d-11e9-8678-63fe5d30dfb6.JPG)   
