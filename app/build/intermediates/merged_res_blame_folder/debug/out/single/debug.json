@@ -1,0 +1,3042 @@
+[
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_meeting.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_meeting.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_feedback.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\fragment_feedback.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_image_gen_secy.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\image_gen_secy.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_feedback.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_nav_bar_background_image.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\nav_bar_background_image.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_nav_item_text.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\nav_item_text.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_terms.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_terms.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_dislike.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_dislike.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_gif_splash.gif.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\mipmap-xxhdpi\\gif_splash.gif"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_mess.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_mess.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_pressed_register.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\pressed_register.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_ppt.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_ppt.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_image_hostel.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\image_hostel.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_terms.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_terms.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_zip.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_zip.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_login_textview.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\login_textview.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_complaint.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\image_complaint.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ritik.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\ritik.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_image_football.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\image_football.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_pdf.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_pdf.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_profile.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_ppt.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_ppt.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_nav_item_background.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\nav_item_background.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_excel.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_excel.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_mess_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_mess_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_branch.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_branch.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_contact.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_contact.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_user.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_user.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_edit_info.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\activity_edit_info.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_hostel_secy.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_hostel_secy.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_council_sports.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\council_sports.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_image_football.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\image_football.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_bt_shape_2.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\bt_shape_2.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_call.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_call.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_image_complaint.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\image_complaint.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_excel.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_excel.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_branch.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_branch.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_profile.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\image_profile.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_user_icon.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\user_icon.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_plus.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\plus.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_plus.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\plus.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_football.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_football.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_settings.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\settings.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_image_key.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\image_key.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_bt_shape.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\bt_shape.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_nav.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_nav.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_sports.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\sports.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_maintenance_register.PNG.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\maintenance_register.PNG"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_color_login_tv.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\color_login_tv.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_new_user.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_new_user.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_image_key.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\image_key.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_ee.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_ee.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_resource.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_resource.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_gradient_view.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\gradient_view.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_slide_screen2.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\slide_screen2.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_image_hostel.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\image_hostel.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mess.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\activity_mess.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_image_plumber.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\image_plumber.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_souravdoshi.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\souravdoshi.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_curved_button.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\curved_button.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_complaints_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_complaints_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_dislike.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_dislike.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_image_mess.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\image_mess.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_feedback.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_feedback.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_dob.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_dob.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_bg_round_rect.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\bg_round_rect.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_image_gen_secy.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\image_gen_secy.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_fab.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_fab.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_electrician.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\image_electrician.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_home.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_home.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_complaints_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_complaints_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_meeting.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_meeting.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_mess.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_mess.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_course_others_cell.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\course_others_cell.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_mobile.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_mobile.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_resource.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\image_resource.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_textview.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\round_textview.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_warden.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_warden.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_image_mess.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\image_mess.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_branch.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_branch.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_image_sports.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\image_sports.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_souravdoshi.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\souravdoshi.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_council_fhm_secy.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\council_fhm_secy.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_forgot_pass_back.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\forgot_pass_back.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_dislike.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_dislike.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_textview_selector.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\textview_selector.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_cs.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_cs.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_image_sports.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\image_sports.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\anim_fade_in.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_button_signup.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\button_signup.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_username.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_username.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_nav_icon_color.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\nav_icon_color.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_file.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_file.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_register_maintenance.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\register_maintenance.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_other_course.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_other_course.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_gmail.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_gmail.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_status_maintenance.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\status_maintenance.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_mess_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_mess_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_instigo.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\logo_instigo.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_council_fm_secy.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\council_fm_secy.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_settings.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_settings.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_notification.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_notification.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_image_electrician.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\image_electrician.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_council_single_item.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\council_single_item.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_football.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_football.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_hostel_.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_hostel_.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_settings.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_settings.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_image.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_image.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_image_emergency.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\image_emergency.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_maintenance_register.PNG.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\maintenance_register.PNG"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_council_item_border.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\council_item_border.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\transition_fabtransition.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\transition\\fabtransition.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_fab.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_fab.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_mobile.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_mobile.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_zip.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_zip.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_folder.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_folder.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_login_background.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\login_background.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_login_background.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\login_background.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_cs.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_cs.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_complaints.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_complaints.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_pressed_status_button.PNG.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\pressed_status_button.PNG"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_nav_user.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_nav_user.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_culture.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_culture.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_email.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_email.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_download.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_download.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_image_emergency.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\image_emergency.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_pass.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_pass.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_dolphin.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\dolphin.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_folder.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_folder.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_icon_instigo.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\mipmap-hdpi\\icon_instigo.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_hostel.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_hostel.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_text_file.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_text_file.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_next.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_next.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_button_login.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\button_login.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_color_login_tv.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\color_login_tv.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_nav_user.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_nav_user.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_input_cursor_2.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\bg_input_cursor_2.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_nav_item_background.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\nav_item_background.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_image_mess.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\image_mess.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_council_background.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\council_background.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_ee.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_ee.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_mobile.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_mobile.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_pencil.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_pencil.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_souravdoshi.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\souravdoshi.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_dolphin.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\dolphin.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_nav_resource.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_nav_resource.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_image_gen_secy.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\image_gen_secy.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_course_me_cell.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\course_me_cell.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_hostel_.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_hostel_.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_folder.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_folder.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_login_textview.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\login_textview.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_hostel_secy.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_hostel_secy.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_pass.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_pass.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_call.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_call.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_pass.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_pass.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_mess_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_mess_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_branch.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_branch.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_call.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_call.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_gradient_view.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\gradient_view.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_round_rect.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\bg_round_rect.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_nav_user.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_nav_user.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_cell_title_layout.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\cell_title_layout.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_complaints_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_complaints_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_cs.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_cs.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_year.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_year.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_council_warden.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\council_warden.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_hostel.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_hostel.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_dolphin.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\dolphin.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_food.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\food.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_branch_listview.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\branch_listview.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_football.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\image_football.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_complaints.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_complaints.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_ultra_view_pager.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\ultra_view_pager.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_nav.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_nav.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_selector_login_button.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\selector_login_button.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_nav_resource.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_nav_resource.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_dob.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_dob.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_image_sports.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\image_sports.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_password.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_password.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_bg_edit.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\selector_bg_edit.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_username.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_username.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_image_electrician.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\image_electrician.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_email.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_email.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_pressed_register.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\pressed_register.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_council_background.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\council_background.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_other_course.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_other_course.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_spinner_item1.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\spinner_item1.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_image_resource.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\image_resource.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_round_textview.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\round_textview.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_image_mess.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\image_mess.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_image_profile.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\image_profile.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_next.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_next.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_curved_button.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\curved_button.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_key.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_key.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_mech.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_mech.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_excel.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_excel.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_gradient_view.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\gradient_view.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_folder.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_folder.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_login.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_login.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_password_icon.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\password_icon.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_resources.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\activity_resources.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_excel.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_excel.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_call.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_call.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_council.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_council.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_gradient_view.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\gradient_view.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_complaint.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\activity_complaint.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_notification.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_notification.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_image_emergency.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\image_emergency.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_office_worker.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\office_worker.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_logout.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_logout.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_user.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_user.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_button_signup.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\button_signup.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_login_background.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\login_background.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_file.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_file.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_feedback.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_feedback.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_image_sports.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\image_sports.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_round_rect.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\bg_round_rect.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_status_maintenance.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\status_maintenance.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_side_nav_bar.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\side_nav_bar.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_pdf.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_pdf.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_maintenance_status.PNG.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\maintenance_status.PNG"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_football.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_football.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_register_maintenance.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\register_maintenance.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_image_resource.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\image_resource.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_textview_selector.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\textview_selector.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_mobile.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_mobile.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_forgot_pass_back.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\forgot_pass_back.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_mess_content_background.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\mess_content_background.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_forgot_pass_back.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\forgot_pass_back.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_dislike.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_dislike.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_paper_plane.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\paper_plane.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_meeting.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_meeting.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_login.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_login.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_gmail.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_gmail.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_textview_selector.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\textview_selector.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_mess_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_mess_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_ppt.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_ppt.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_notification.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_notification.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_folder.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_folder.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_zip.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_zip.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_side_nav_bar.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\side_nav_bar.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_round_textview.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\round_textview.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_add_feedback.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\add_feedback.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_cell_content_layout.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\cell_content_layout.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_terms.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_terms.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_next.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_next.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\anim_fadeout.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_paper_plane.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\paper_plane.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_side_nav_bar.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\side_nav_bar.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_new_user.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_new_user.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_image_profile.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\image_profile.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_selector_login_button.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\selector_login_button.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_user_icon.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\user_icon.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_contact.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_contact.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_email.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_email.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\xml_data_extraction_rules.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_forgot_pass_back.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\forgot_pass_back.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_user_icon.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\user_icon.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_other_course.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_other_course.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_gen_secy.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\image_gen_secy.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_council.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_council.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_council.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_council.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_resource.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_resource.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_image.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_image.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_selector_login_button.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\selector_login_button.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_feedback.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_feedback.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_pdf.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_pdf.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_password.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_password.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_image_slider.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\image_slider.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_image_resource.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\image_resource.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_hostel_warden.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\hostel_warden.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_icon_instigo.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\mipmap-mdpi\\icon_instigo.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_pressed_register.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\pressed_register.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_zip.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_zip.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_icon_instigo.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_instigo.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_gender.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_gender.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_password_icon.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\password_icon.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_hostel.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_hostel.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_login_button.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\selector_login_button.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_ee.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_ee.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_status_maintenance.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\status_maintenance.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_council_cultural_secy.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\council_cultural_secy.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_home.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_home.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_curved_button.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\curved_button.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_bg_round_rect.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\bg_round_rect.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_doc_cell.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\doc_cell.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_forgot_password.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_text_file.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_text_file.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_color_login_tv.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\color_login_tv.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_culture.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_culture.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_login_textview.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\login_textview.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_button_signup.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\button_signup.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_gif_splash.gif.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\gif_splash.gif"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_image_carpenter.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\image_carpenter.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_register_maintenance.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\register_maintenance.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\menu_drawer.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\menu\\drawer.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_introscreen.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\activity_introscreen.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_image_hostel.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\image_hostel.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_gender.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_gender.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_council_emergency.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\council_emergency.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_plus.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\plus.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_icon_instigo.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_instigo.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_image_resource.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\image_resource.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_image_key.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\image_key.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_complaints_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_complaints_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_spinner_drop_down_item1.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\spinner_drop_down_item1.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_fab.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_fab.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_image.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_image.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_input_cursor.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\bg_input_cursor.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_login.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_login.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_password_icon.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\password_icon.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_image.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_image.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_hostel_secy.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_hostel_secy.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_football.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_football.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_image_profile.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\image_profile.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_football.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_football.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_settings.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_settings.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_email.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_email.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_text_file.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_text_file.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_logout.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_logout.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_button_login.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\button_login.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_slider_item.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\fragment_slider_item.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_year.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_year.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_contact.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_contact.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_ee.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_ee.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_notification.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_notification.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_gmail.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_gmail.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_sports.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\image_sports.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_mess.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_mess.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_register.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_gif_splash.gif.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\gif_splash.gif"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_nav.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_nav.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_curved_button.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\curved_button.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main_register.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\activity_main_register.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_ee.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_ee.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_nav_icon_color.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\nav_icon_color.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_paper_plane.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\paper_plane.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_image_complaint.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\image_complaint.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_council_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_council_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_image_home_back.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\image_home_back.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_complaints.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_complaints.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_council_background.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\council_background.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_menu_background.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\menu_background.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_culture.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_culture.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_maintenance_status.PNG.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\maintenance_status.PNG"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_register_maintenance.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\register_maintenance.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_council_fs_secy.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\council_fs_secy.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_pressed_register.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\pressed_register.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_nav_bar_background_image.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\nav_bar_background_image.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_mess_content_background.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\mess_content_background.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_meeting.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_meeting.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_username.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_username.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_nav_item_text.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\nav_item_text.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_image_football.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\image_football.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_download.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_download.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_text_file.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_text_file.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_mech.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_mech.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_nav_user.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_nav_user.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_password.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_password.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_image_complaint.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\image_complaint.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_welcome.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_mess_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_mess_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_image_home_back.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\image_home_back.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_ppt.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_ppt.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_file.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_file.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_login.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\button_login.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_excel.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_excel.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_pressed_register.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\pressed_register.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_login.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_login.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_file.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_file.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_emergency.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\image_emergency.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_branch.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_branch.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_warden.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_warden.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_textview_selector.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\textview_selector.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_forgot_pass_back.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\forgot_pass_back.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_bg_round_rect.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\bg_round_rect.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_image_plumber.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\image_plumber.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_login_background.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\login_background.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_curved_button.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\curved_button.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_gmail.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_gmail.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_username.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_username.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_image_profile_pic.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\image_profile_pic.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_complaints_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_complaints_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_user_icon.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\user_icon.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_spinner_item.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_email.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_email.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_dolphin.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\dolphin.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_update_password.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\update_password.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_resource_color.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_resource_color.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_other_course.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_other_course.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_settings.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\settings.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_mech.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_mech.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_menu_background.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\menu_background.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_download.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_download.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_nav_bar_background_image.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\nav_bar_background_image.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_image_electrician.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\image_electrician.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main_status.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\activity_main_status.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_gmail.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_gmail.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_souravdoshi.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\souravdoshi.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_slide_screen1.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\slide_screen1.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_complaints.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_complaints.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_pressed_status_button.PNG.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\pressed_status_button.PNG"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_next.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_next.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_image_carpenter.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\image_carpenter.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_resource_color.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_resource_color.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_next.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_next.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_signup.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\button_signup.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_resource.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_resource.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_pdf.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_pdf.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_pass.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_pass.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_home.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_home.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_plus.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\plus.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_pdf.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_pdf.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_cs.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_cs.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_settings.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_settings.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_home_back.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\image_home_back.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_side_nav_bar.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\side_nav_bar.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_course_cs_cell.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\course_cs_cell.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_carpenter.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\image_carpenter.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_status_maintenance.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\status_maintenance.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_mess.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\image_mess.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_complaints.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_complaints.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_contact.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_contact.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_branch.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_branch.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_warden.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_warden.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_complaints_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_complaints_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_key.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_key.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_pass.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_pass.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_password.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_password.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_maintenance_register.PNG.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\maintenance_register.PNG"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_feedback.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_feedback.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_zip.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_zip.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_file.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_file.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_notification.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_notification.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_button_login.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\button_login.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_hostel.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\image_hostel.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_image_football.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\image_football.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_nav.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_nav.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_button_login.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\button_login.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_complaints.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_complaints.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_image_football.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\image_football.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_call.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_call.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_excel.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_excel.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_password_icon.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\password_icon.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_football.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_football.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_ppt.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_ppt.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_key.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_key.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_year.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_year.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_image_carpenter.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\image_carpenter.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_pressed_status_button.PNG.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\pressed_status_button.PNG"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_cell.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\cell.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_complaints_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_complaints_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_souravdoshi.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\souravdoshi.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_login_background.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\login_background.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_council.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\activity_council.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_new_user.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_new_user.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_folder.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_folder.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_pencil.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_pencil.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_council_background.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\council_background.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_notification.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_notification.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_pressed_status_button.PNG.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\pressed_status_button.PNG"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_council_background.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\council_background.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_hostel_secy.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_hostel_secy.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_hostel_.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_hostel_.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_image_hostel.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\image_hostel.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_council_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_council_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_paper_plane.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\paper_plane.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_image.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_image.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_curved_button.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\curved_button.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_terms.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_terms.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_text_file.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_text_file.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_color_login_tv.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\color_login_tv.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_mess_content_background.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\mess_content_background.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_maintenance_register.PNG.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\maintenance_register.PNG"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_resource.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_resource.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_login_textview.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\login_textview.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_settings.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_image.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_image.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_gradient_view.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\gradient_view.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_council.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_council.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_cs.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_cs.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_fab.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_fab.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_image_profile_pic.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\image_profile_pic.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_dislike.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_dislike.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_mess.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_mess.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_gif_splash.gif.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\gif_splash.gif"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_download.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_download.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_item_mess_feedback.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\item_mess_feedback.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_settings.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\settings.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_image_key.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\image_key.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_bg.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\bg.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_new_user.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_new_user.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_dolphin.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\dolphin.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\menu_navigation_items.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\menu\\navigation_items.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_nav_item_background.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\nav_item_background.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_dob.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_dob.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_mess.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_mess.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_gradient_view.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\gradient_view.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_gender.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_gender.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_nav_bar_background_image.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\nav_bar_background_image.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_nav.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_nav.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_culture.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_culture.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_image_complaint.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\image_complaint.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_image_home_back.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\image_home_back.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_icon_instigo.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\mipmap-xhdpi\\icon_instigo.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_council_background.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\council_background.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_password_icon.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\password_icon.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_image_plumber.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\image_plumber.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_pencil.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_pencil.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_nav_item_text.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\nav_item_text.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\anim_translate.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_council_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_council_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_button_signup.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\button_signup.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_branch.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_branch.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_settings.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_settings.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_image_profile.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\image_profile.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_maintenance_status.PNG.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\maintenance_status.PNG"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_key.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\image_key.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_gmail.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_gmail.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_image_gen_secy.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\image_gen_secy.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_app_bar_layout.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\app_bar_layout.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_dislike.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_dislike.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_nav_item_text.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\nav_item_text.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_call.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_call.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_meeting.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\meeting.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_hostel_.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_hostel_.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_council.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_council.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_nav_item_background.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\nav_item_background.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_music_girl.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\music_girl.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_doc_list_view.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\doc_list_view.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_terms.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_terms.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_pencil.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_pencil.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_nav_icon_color.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\nav_icon_color.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\mipmap_instigo_logo.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\mipmap\\instigo_logo.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_doc_main.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\doc_main.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_nav_user.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_nav_user.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_bg_round_rect.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\bg_round_rect.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_pressed_register.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\pressed_register.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_image_hostel.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\image_hostel.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_textview_selector.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\textview_selector.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_slide_screen3.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\slide_screen3.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_bg.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\bg.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_logout.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_logout.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_mess_content_background.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\mess_content_background.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_feedback.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_feedback.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_menu_background.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\menu_background.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_emergency_call.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\emergency_call.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_button_login.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\button_login.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_nav_resource.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_nav_resource.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_user_icon.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\user_icon.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_forgot_pass_back.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\forgot_pass_back.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_status_item.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\status_item.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_profile_pic.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\image_profile_pic.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_key.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_key.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_settings_content.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\settings_content.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_resource_color.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_resource_color.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_image_plumber.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\image_plumber.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_souravdoshi.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\souravdoshi.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_bg.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\bg.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_resource_color.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_resource_color.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_paper_plane.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\paper_plane.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_text_file.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_text_file.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_selector_login_button.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\selector_login_button.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_password.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_password.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_round_textview.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\round_textview.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_key.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_key.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_dob.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_dob.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_contact.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_contact.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_maintenance_status.PNG.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\maintenance_status.PNG"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_council_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_council_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_key.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_key.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_color_login_tv.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\color_login_tv.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_contact.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_contact.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_user_icon.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\user_icon.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_pencil.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_pencil.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_cs.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_cs.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_year.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_year.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_nav.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_nav.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_warden.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_warden.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_gif_splash.gif.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\gif_splash.gif"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_home.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_home.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_register_maintenance.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\register_maintenance.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_meeting.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_meeting.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\anim_cycle.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\anim\\cycle.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_new_user.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_new_user.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_image_electrician.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\image_electrician.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_image_sports.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\image_sports.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_curved_button.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\curved_button.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_plus.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\plus.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_council_general_secy.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\council_general_secy.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_hostel.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_hostel.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_image_emergency.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\image_emergency.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_menu_background.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\menu_background.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_dob.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_dob.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_nav_bar_background_image.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\nav_bar_background_image.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_mech.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_mech.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_image_home_back.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\image_home_back.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_hostel_secy.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_hostel_secy.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_logout.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_logout.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_contact.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_contact.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_dob.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_dob.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_status_details.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\activity_status_details.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_other_course.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_other_course.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_file.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_file.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_council_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_council_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_fab.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_fab.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_username.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_username.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_hostel.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_hostel.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_button_signup.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\button_signup.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_state_list_animator_z.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\state_list_animator_z.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_image_profile_pic.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\image_profile_pic.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_ee.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_ee.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_login.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_login.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_mech.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_mech.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_paper_plane.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\paper_plane.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_login.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_login.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_email.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_email.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_gradient_view.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\gradient_view.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_boy.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\boy.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_button_signup.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\button_signup.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_login_textview.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\login_textview.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_pdf.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_pdf.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_nav_icon_color.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\nav_icon_color.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_mech.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_mech.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_round_textview.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\round_textview.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_color_login_tv.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\color_login_tv.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_settings.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_warden.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_warden.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_terms.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_terms.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_gender.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_gender.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_textview_selector.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\textview_selector.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_forgot_pass_back.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\forgot_pass_back.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_year.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_year.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_home.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_home.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_menu.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_maintenance_register.PNG.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\maintenance_register.PNG"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_council_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_council_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_nav_icon_color.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\nav_icon_color.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_user.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_user.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_button_login.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\button_login.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_password_icon.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\password_icon.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_user.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_user.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_call.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_call.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_image_complaint.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\image_complaint.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_gif_splash.gif.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\mipmap-mdpi\\gif_splash.gif"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_image_key.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\image_key.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_nav_resource.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_nav_resource.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_complaints.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_complaints.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_image_home_back.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\image_home_back.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_logout.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_logout.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_mobile.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_mobile.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_image_electrician.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\image_electrician.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_settings.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_settings.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_plumber.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\image_plumber.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_test.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_course_ee_cell.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\course_ee_cell.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_gender.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_gender.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_menu_background.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\menu_background.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_pass.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_pass.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_placeholder_row.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\placeholder_row.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_register.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_resource.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_resource.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_mess.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_mess.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_dolphin.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\dolphin.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_mess_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_mess_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_login_background.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\login_background.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_dolphin.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\dolphin.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_other_course.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_other_course.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_color_login_tv.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\color_login_tv.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_ppt.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_ppt.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_culture.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_culture.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_status_maintenance.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\status_maintenance.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_maintenance_status.PNG.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\maintenance_status.PNG"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_menu_background.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\menu_background.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_year.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_year.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_login_textview.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\login_textview.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_status_maintenance.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\status_maintenance.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_resource.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_resource.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_nav_user.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_nav_user.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_side_nav_bar.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\side_nav_bar.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_password.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_password.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_hostel_.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_hostel_.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_home.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_home.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_home_screen.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\home_screen.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_indicator_circle.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\indicator_circle.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_mess_content_background.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\mess_content_background.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\xml_settings.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_add_course.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\add_course.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_hostel_secy.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_hostel_secy.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_spinner_drop_down_item.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\spinner_drop_down_item.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_feedback.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_feedback.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_fab.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_fab.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_image_profile_pic.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\image_profile_pic.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_maintenance_register.PNG.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\maintenance_register.PNG"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_download.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_download.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_image_carpenter.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\image_carpenter.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_nav_resource.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_nav_resource.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_zip.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_zip.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_mess_content_background.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\mess_content_background.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_next.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_next.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_gender.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_gender.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_new_user.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_new_user.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_council.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_council.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_resource_color.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\icon_resource_color.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_gif_splash.gif.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\gif_splash.gif"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_warden.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_warden.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_nav_icon_color.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\nav_icon_color.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_sport_junior.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\sport_junior.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_cs.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_cs.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_plus.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\plus.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_register_maintenance.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\register_maintenance.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_image_resource.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\image_resource.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_nav_item_text.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\nav_item_text.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_nav_item_text.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\nav_item_text.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon_user.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\icon_user.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_user.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_user.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_maintenance_status.PNG.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\maintenance_status.PNG"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_nav_item_background.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\nav_item_background.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_selector_login_button.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\selector_login_button.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_image_gen_secy.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\image_gen_secy.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_image_emergency.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\image_emergency.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_round_textview.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\round_textview.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_add_doc.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\add_doc.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_settings.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_selector_bg_edit.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\selector_bg_edit.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_culture.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_culture.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_hostel.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_hostel.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_gif_splash.gif.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\gif_splash.gif"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_gif_splash.gif.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\gif_splash.gif"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_download.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_download.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_image_profile_pic.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\image_profile_pic.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_hostel_.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_hostel_.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_pressed_status_button.PNG.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\pressed_status_button.PNG"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bg_round_rect.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\bg_round_rect.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_pencil.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_pencil.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_nav_bar_background_image.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\nav_bar_background_image.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_mobile.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\icon_mobile.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_nav_item_background.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxhdpi\\nav_item_background.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_image_carpenter.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\image_carpenter.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_image_mess.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\image_mess.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_image_profile.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-v24\\image_profile.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_council_color.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-hdpi\\icon_council_color.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_council_fr_hostel_secy.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\council_fr_hostel_secy.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable_pressed_status_button.PNG.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable\\pressed_status_button.PNG"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_username.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_username.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_image_plumber.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\image_plumber.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_council_background.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\council_background.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_logout.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_logout.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\layout_content_main.xml.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_council.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_council.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_resource_color.jpg.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_resource_color.jpg"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_bg.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xxxhdpi\\bg.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_meeting.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-xhdpi\\icon_meeting.png"
+    },
+    {
+        "merged": "E:\\InstiGo-RKU\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_nav_resource.png.flat",
+        "source": "E:\\InstiGo-RKU\\app\\src\\main\\res\\drawable-mdpi\\icon_nav_resource.png"
+    }
+]

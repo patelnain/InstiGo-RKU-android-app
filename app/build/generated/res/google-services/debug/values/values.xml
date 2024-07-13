@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">795238462500-2cprteomi8vspfo3pfkknd1iubbt40jl.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://instigo-c6d9c-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">795238462500</string>
+    <string name="google_api_key" translatable="false">AIzaSyAiYhXqa_5U5acYf_uSBvc4qGua-zA7kT4</string>
+    <string name="google_app_id" translatable="false">1:795238462500:android:6909e6e9f7d8e0dccd94b1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAiYhXqa_5U5acYf_uSBvc4qGua-zA7kT4</string>
+    <string name="google_storage_bucket" translatable="false">instigo-c6d9c.appspot.com</string>
+    <string name="project_id" translatable="false">instigo-c6d9c</string>
+</resources>

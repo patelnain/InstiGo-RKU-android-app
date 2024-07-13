@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "795238462500",
+    "firebase_url": "https://instigo-c6d9c-default-rtdb.firebaseio.com",
+    "project_id": "instigo-c6d9c",
+    "storage_bucket": "instigo-c6d9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795238462500:android:6909e6e9f7d8e0dccd94b1",
+        "android_client_info": {
+          "package_name": "com.rku.nain.instigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795238462500-dj339e5p91u3l410lm64l3fee930qp94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rku.nain.instigo",
+            "certificate_hash": "2d4ade9dac1ad499f3ec52a1de334e9d2590a4a9"
+          }
+        },
+        {
+          "client_id": "795238462500-2cprteomi8vspfo3pfkknd1iubbt40jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiYhXqa_5U5acYf_uSBvc4qGua-zA7kT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795238462500-2cprteomi8vspfo3pfkknd1iubbt40jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
